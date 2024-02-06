@@ -341,6 +341,15 @@ ul p{
     align-self: center;
     align-items: center;
     border: 0.05px solid rgb(191, 191, 191);
+    color: white;
+}
+.bot1{
+    text-align: center;
+    color: white;
+ 
+}
+.opt{
+    background-color: black;
 }
 #i1{
     color: white;
@@ -359,6 +368,7 @@ a:hover{
    text-decoration-color: #f3f3f3;
 }
 .bot2{
+    text-align: center;
     width: 150px;
     justify-content: space-evenly;
 }
@@ -367,6 +377,7 @@ a:hover{
     margin-right: 5px;
 }
 .bot3{
+    text-align: center;
     width: 140px;
     justify-content: space-evenly;
 }
